@@ -1,0 +1,48 @@
+.header{
+	
+	text-align: center;
+}
+
+.sub_header{
+	text-align: center;
+}
+
+.middle{
+	width: 100%;
+	height: 400px;
+	padding: 10px;
+}
+
+.leftside{
+	padding: 20px 20px 0px 20px;
+	margin-right: 50px;
+	margin-left: 90px;
+	border: dashed;
+	border-color: red;
+	display: block;
+	width: 20%;
+	height:300px;
+	float: left;
+	overflow: hidden;
+	
+}
+
+
+.rightside{
+	padding: 20px 20px 0px 20px;
+	overflow: hidden;
+	height: 300px;
+	width: 50%;
+	border: dashed;
+	border-color: red;
+	display:block;
+	margin-left: 50px;
+
+}
+
+.img{
+	position: relative;
+	float: right;
+	width: 100px;
+	height: 100px
+}

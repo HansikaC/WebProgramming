@@ -1,0 +1,45 @@
+       h1.artist{
+			font-family: Arial;
+			font-size:14pt; 
+			font-weight: bold;
+			color:moccasin;
+		}
+		p.song_title{
+			font-family: Arial;
+			font-size: 14pt;
+			font-weight: normal;
+			color: khaki;
+		}
+		p.album{
+			font-family: Arial;
+			font-size: 12pt;
+			font-weight: normal;
+			color: khaki;
+		}
+		h2.year{
+			font-family: Arial;
+			font-size: 12pt;
+			font-weight: bold;
+			color: ivory;
+		}
+		p.background{
+			color: chocolate;
+		}
+		h2.verse{
+			font-family: Trebuchet MS;
+			font-size: 14pt;
+			font-weight: bold;
+			color: gold;
+			margin-left: 2cm;
+			margin-right: 2cm;
+
+		}
+		h2.chorus{
+			font-family: Trebuchet MS;
+			font-size: 14pt;
+			font-weight: bold;
+			font-style: italic;
+			color: gold;
+			margin-left: 4cm;
+			margin-right: 4cm;
+		}

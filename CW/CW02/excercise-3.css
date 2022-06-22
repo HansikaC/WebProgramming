@@ -1,0 +1,14 @@
+h1{
+	color: blueviolet;
+}
+h1.external{
+	color:red; margin-left:2cm;
+}
+h2.external{
+	color:red; margin-left:4cm;
+}
+p.external{
+   text-indent:2cm;
+   color:darkred;
+   margin-left:6cm
+}
