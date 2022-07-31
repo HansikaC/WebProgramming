@@ -1,7 +1,7 @@
-#Project - "Who wants to be a Millionare?"
+#Project - Restaurant Finder
 
-Youtube Video: https://youtu.be/7CVORWv9fuE
+Video: https://youtu.be/7CVORWv9fuE
 
-Project Code: https://codd.cs.gsu.edu/~hyedlapalli1/Project1/index.html
+Project Code: https://codd.cs.gsu.edu/~hyedlapalli1/web_project/index.html
 
-PPT: it is included in the folder with title-"Project1.pptx"
+PPT: it is included in the folder with title-"Project3.pptx"
